@@ -1,3 +1,7 @@
 {
+<<<<<<< HEAD
     "python.pythonPath": "venv/bin/python"
+=======
+    "python.pythonPath": "venv\\Scripts\\python.exe"
+>>>>>>> 0d6cfe826c1d7895e7a07d426ecf2171bc11b06c
 }
